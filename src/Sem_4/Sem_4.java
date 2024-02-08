@@ -1,5 +1,7 @@
 package Sem_4;
 
+import java.util.Comparator;
+
 public class Sem_4 {
     public static void main(String[] args) {
         MyHashMap<Object, String> myHashMap = new MyHashMap<Object, String>(4);
